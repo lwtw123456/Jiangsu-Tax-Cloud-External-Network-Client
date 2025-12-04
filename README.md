@@ -33,8 +33,8 @@
 #### 1. 克隆仓库
 
 ``` bash
-git clone https://github.com/lwtw123456/Tax-Cloud-External-Network-Client.git
-cd Tax-Cloud-External-Network-Client
+git clone https://github.com/lwtw123456/TaxCloudExternalNetworkClient.git
+cd TaxCloudExternalNetworkClient
 ```
 
 #### 2. 安装依赖（Python 3.8+）
